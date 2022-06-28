@@ -108,3 +108,10 @@
   border-radius: 6px 6px 6px 6px;
 }
 
+.element_container {
+  display: flex;
+  flex-direction: row;
+  width: 750px;
+  justify-content: space-between;
+}
+
